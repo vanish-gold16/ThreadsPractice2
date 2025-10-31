@@ -1,3 +1,7 @@
+package Thread;
+
+// basicly the data thread
+
 public class MyThread extends  Thread {
 
     private final int threadNum;

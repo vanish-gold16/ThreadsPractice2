@@ -1,3 +1,7 @@
+package Thread;
+
+// the same thing as the Thread is, but implements instead of extending (leaves place to extend something other
+
 public class MyRunnable implements Runnable {
 
     private final int threadNum;
